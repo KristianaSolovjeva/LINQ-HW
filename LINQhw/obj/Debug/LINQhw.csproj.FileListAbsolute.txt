@@ -1,0 +1,7 @@
+C:\Users\kristiana.solovjeva\source\repos\LINQhw\LINQhw\bin\Debug\LINQhw.exe.config
+C:\Users\kristiana.solovjeva\source\repos\LINQhw\LINQhw\bin\Debug\LINQhw.exe
+C:\Users\kristiana.solovjeva\source\repos\LINQhw\LINQhw\bin\Debug\LINQhw.pdb
+C:\Users\kristiana.solovjeva\source\repos\LINQhw\LINQhw\obj\Debug\LINQhw.csprojAssemblyReference.cache
+C:\Users\kristiana.solovjeva\source\repos\LINQhw\LINQhw\obj\Debug\LINQhw.csproj.CoreCompileInputs.cache
+C:\Users\kristiana.solovjeva\source\repos\LINQhw\LINQhw\obj\Debug\LINQhw.exe
+C:\Users\kristiana.solovjeva\source\repos\LINQhw\LINQhw\obj\Debug\LINQhw.pdb
